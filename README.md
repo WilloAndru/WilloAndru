@@ -1,4 +1,4 @@
-### Hi there 👋
+Programador con experiencia en proyectos autodidactas en diseño web y logica de JavaScript. Capaz de desarrollar soluciones escalables. Comprometido con la calidad y la innovación y listo para aportar mis habilidades al equipo y contribuir al éxito de su empresa.
 
 <!--
 **WilloAndru/WilloAndru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
