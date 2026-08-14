@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Full Stack Developer | Cloud Architect | Open Source Enthusiast**
+**Software Engineer | Systems Engineering**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WilloAndru&label=Profile%20views&color=0891b2&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/WilloAndru?logo=github&style=flat)
@@ -18,17 +18,17 @@
 
 ## 💼 Sobre mi
 
-Soy un **Desarrollador Web Full Stack** apasionado por construir aplicaciones web escalables, optimizadas y con excelente experiencia de usuario. Actualmente en el último semestre de **Ingeniería de Sistemas** en la Universidad EAN, con experiencia certificada en **Cloud Computing con AWS**.
+Soy un **Ingeniero de Sistemas** enfocado en el desarrollo de soluciones de software escalables, optimización de sistemas y el despliegue de **aplicaciones completas en entornos de producción**. Actualmente en el último semestre de **Ingeniería de Sistemas** en la Universidad EAN.
 
 Mi enfoque es en:
-- 🏗️ **Arquitectura de Software** escalable y mantenible
-- ⚡ **Optimización de Rendimiento** (reducción de tiempos de carga, tamaño de assets)
-- ☁️ **Cloud Deployment** con prácticas de producción
-- 🔐 **Seguridad** en autenticación y manejo de roles
+- 🚀 **Despliegue y Mantenimiento en Producción** de aplicaciones web funcionales
+- 🏗️ **Arquitectura de Software** escalable, mantenible y orientada a eventos
+- ⚡ **Optimización de Rendimiento** (bases de datos, tiempos de respuesta y latencia)
+- 🔐 **Seguridad, Modelado de Datos** y gestión de accesos
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados (En Producción)
 
 ### **EcoMercado** - E-commerce Completo
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -41,7 +41,7 @@ Mi enfoque es en:
 - ✅ Módulo de pagos simulado
 - 🎯 **Resultados**: Tiempo de carga < 2s | Optimización de página del 40%
 
-[Ver proyecto](https://eco-mercado.vercel.app/) →
+[Ver proyecto en producción](https://eco-mercado.vercel.app/) →
 
 ---
 
@@ -57,7 +57,7 @@ Mi enfoque es en:
 - ✅ Paginación y filtrado de productos
 - 🎯 **Resultados**: Reducción de consultas del 35% | Mejora de navegación del 30%
 
-[Ver proyecto](https://happy-paws-sr4m.vercel.app/) →
+[Ver proyecto en producción](https://happy-paws-sr4m.vercel.app/) →
 
 ---
 
@@ -73,7 +73,7 @@ Mi enfoque es en:
 - ✅ Modo claro/oscuro
 - 🎯 **Resultados**: Tiempo de respuesta 500ms | Arquitectura serverless
 
-[Ver proyecto](https://control-cash-lrc4.vercel.app/viewPlans) →
+[Ver proyecto en producción](https://control-cash-lrc4.vercel.app/viewPlans) →
 
 ---
 
@@ -87,7 +87,7 @@ Mi enfoque es en:
 - ✅ Exportación automática a Excel
 - 🎯 **Resultados**: Reducción de tiempo del 90% (60s → 6s)
 
-[Ver proyecto](https://pricecompare-seven.vercel.app/) →
+[Ver proyecto en producción](https://pricecompare-seven.vercel.app/) →
 
 ---
 
@@ -95,29 +95,31 @@ Mi enfoque es en:
 
 <div align="center">
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### **Lenguajes & Frontend**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### **Backend**
+### **Backend & Entornos Corporativos**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Bases de Datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Cloud & DevOps**
+### **Infraestructura & Despliegue**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### **APIS & Integraciones**
+### **APIs & Integraciones**
 ![Stripe](https://img.shields.io/badge/Stripe-5433FF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -126,22 +128,13 @@ Mi enfoque es en:
 
 ---
 
-## 🎓 Educación & Certificados
+## 🎓 Educación & Formación
 
 | Programa | Institución | Período |
 |----------|-------------|---------|
-| 🎖️ **AWS Academy Cloud Foundations** | Amazon Web Services | Junio 2026 |
 | 🎓 **Ingeniería de Sistemas** | Universidad EAN | Julio 2023 - Nov 2026 |
 | 🎓 **Ingeniería Eléctrica** | Universidad Nacional | Julio 2020 - Junio 2023 |
-
----
-
-## 💪 Habilidades Blandas
-
-```
-Proactividad • Trabajo en Equipo • Comunicación Efectiva
-SCRUM • Planificación de Sprints • Adaptabilidad
-```
+| 🎖️ **AWS Academy Cloud Foundations** | Amazon Web Services | Junio 2026 |
 
 ---
 
