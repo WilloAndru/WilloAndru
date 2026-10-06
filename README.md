@@ -16,7 +16,7 @@
 
 </div>
 
-## 💼 Sobre mi
+## 💼 Sobre mí
 
 Soy un **Ingeniero de Sistemas** enfocado en el desarrollo de soluciones de software escalables, optimización de sistemas y el despliegue de **aplicaciones completas en entornos de producción**. Actualmente en el último semestre de **Ingeniería de Sistemas** en la Universidad EAN.
 
@@ -25,6 +25,17 @@ Mi enfoque es en:
 - 🏗️ **Arquitectura de Software** escalable, mantenible y orientada a eventos
 - ⚡ **Optimización de Rendimiento** (bases de datos, tiempos de respuesta y latencia)
 - 🔐 **Seguridad, Modelado de Datos** y gestión de accesos
+
+---
+
+## 💼 Experiencia Laboral
+
+### **Practicante / Desarrollador Web Full Stack** · *Dicta S.A.S.*
+🗓️ **Julio 2026 - Presente** | 📍 Bogotá, Colombia (Remoto)
+
+- 🌐 **Desarrollo Full Stack**: Participación en el ciclo completo de desarrollo de la plataforma web principal, diseñando e implementando interfaces de usuario interactivas y lógica de servidor.
+- 🚀 **Colaboración en Proyecto Clave**: Contribución directa a la creación, desarrollo y estructuración de la nueva presencia digital de la compañía.
+- ⚡ **Gestión y Entrega Continuas**: Resolución proactiva de requerimientos técnicos asignados, asegurando entregas oportunas y código funcional en producción.
 
 ---
 
@@ -111,7 +122,7 @@ Mi enfoque es en:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Bases de Datos**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Infraestructura & Despliegue**
@@ -151,7 +162,7 @@ Estoy siempre buscando colaborar en proyectos interesantes, aprender nuevas tecn
 
 📧 **Email**: wilsonandrescriollo@gmail.com  
 📱 **Teléfono**: +57 3025177000  
-💼 **LinkedIn**: [linkedin.com/in/wilson1903](https://linkedin.com/in/wilson1903)   
+💼 **LinkedIn**: [linkedin.com/in/wilson1903](https://linkedin.com/in/wilson1903)  
 🌐 **Portfolio**: [willoandru.github.io/Portfolio](https://willoandru.github.io/Portfolio/)
 
 ---
